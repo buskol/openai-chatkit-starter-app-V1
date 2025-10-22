@@ -9,27 +9,27 @@ export const STARTER_PROMPTS: StartScreenPrompt[] = [
   {
     label: "Om Business Kolding",
     prompt: "Fortæl kort om Business Kolding, og hvad I kan hjælpe med.",
-    icon: "circle-info",
+    icon: "circle-question",
   },
   {
     label: "Direktør",
     prompt: "Hvem er direktør i Business Kolding?",
-    icon: "circle-info",
+    icon: "circle-question",
   },
   {
     label: "Kommende events",
     prompt: "Hvilke kommende arrangementer har I inden for ESG, grøn omstilling eller ligneden?",
-    icon: "calendar-days",
+    icon: "circle-question",
   },
   {
     label: "Iværksætteri",
     prompt: "Hvordan kan jeg få hjælp som iværksætter?",
-    icon: "lightbulb",
+    icon: "circle-question",
   },
   {
     label: "Kontakt",
     prompt: "Hvordan kontakter jeg jer, og hvad er åbningstiderne?",
-    icon: "message",
+    icon: "circle-question",
   },
 ];
 
