@@ -28,7 +28,7 @@ export const STARTER_PROMPTS: StartScreenPrompt[] = [
   },
   {
     label: "Kontakt",
-    prompt: "Hvordan kontakter jeg jer, og hvad er åbningstiderne?",
+    prompt: "Hvordan kontakter jeg jer og hvad er åbningstiderne?",
     icon: "circle-question",
   },
 ];
